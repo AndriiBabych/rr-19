@@ -11,3 +11,5 @@ README.md - this file
 ignore
 .github - directory containing GITHUB-specific configuration files 
 (which literally means that these options won't work anywhere else)
+
+kkosc
